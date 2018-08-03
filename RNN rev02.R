@@ -1,4 +1,4 @@
-## Predicting sine function using an MLP Neural Network ----
+## Predicting soil conductivity using an MLP Neural Network ----
 # Overview: Neural network model in R to predict soil conductivity as a function of pH and elemental composition (with reference to https://datascienceplus.com/fitting-neural-network-in-r/)
 # Dataset: Soils (https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 # Author: Dr Gobinath Pillai Rajarathnam
